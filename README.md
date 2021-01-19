@@ -2,21 +2,7 @@
 
 博客来源：[langhsu](https://gitee.com/mtons/mblog?_from=gitee_search )
 
-一共四个主题，比官方提供的多了2个主题，博客及主题全部收集于网络，方方便大家直接拿来使用
-
-演示地址：[演示地址](http://123.56.31.132:8080/)
-
-或者访问  123.56.31.132:8080
-
-用户名： admin
-
-密码： 12345
-
-线上地址：[线上地址](http://123.56.31.132:10086)
-
-注意：线上地址与演示项目有差异
-
-
+演示地址：[演示地址](http://182.92.173.89:8080/)
 
 ### Mblog 开源Java博客系统, 支持多用户, 支持切换主题
 
@@ -25,7 +11,6 @@
 [![Release](https://img.shields.io/github/release/langhsu/mblog.svg?style=flat-square)](https://github.com/langhsu/mblog)
 [![license](https://img.shields.io/badge/license-GPL--3.0-green.svg)](https://github.com/langhsu/mblog/blob/master/LICENSE)
 [![Docker](https://img.shields.io/docker/automated/langhsu/mblog.svg?style=flat-square)](https://hub.docker.com/r/langhsu/mblog)
-[![QQ群](https://img.shields.io/badge/chat-Mtons-green.svg)](https://jq.qq.com/?_wv=1027&k=521CRdF)
 
 ### 技术选型：
 
@@ -52,10 +37,8 @@
  如遇到启动失败/切换环境变量后启动失败的,请先maven clean后再尝试启动
  IDE得装lombok插件
  ```
-
 - 文档: [说明文档](https://langhsu.github.io/mblog/#/)
 - 官网: [官网地址](http://www.mtons.com)
-- QQ交流群：378433412
   
 ### 版本(4.0)更新内容：
     1. 新增 <@layout.extends name="xxx"></layout.extends> 标签, 用于进入模板文件, 解决主题开发时各种路径带入主题名的问题
@@ -111,4 +94,3 @@
 ![01.jpg](.assets/1HkUl9ZyrAihNT5.jpg)![02.jpg](.assets/jbCDgvZS6OeEund.jpg)
 
 ![03.jpg](.assets/q9ebYhp5JvUWm4t.jpg)
-
