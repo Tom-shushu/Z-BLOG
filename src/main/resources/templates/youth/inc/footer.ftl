@@ -5,7 +5,7 @@
                 <div class="col-md-3">
                     <nav class="footer-nav">
                         <div class="footer-nav-item footer-nav-logo">
-                            <img src="<@resource src=options['site_logo']/>" alt="mblog" /></br>
+                            <img src="<@resource src=options['site_logo']/>" alt="z-blog" /></br>
                             <span class="footer-nav-item">
                 <@resource src=options[ 'site_introduce']/></span>
                         </div>
@@ -52,8 +52,8 @@
             <div class="col-md-5">
                 <div class="gh-foot-min-back hidden-xs hidden-sm">
                     <!-- 请保留此处标识-->
-                    <span class="footer-nav-item">Powered by
-                        <a href="https://github.com/langhsu/mblog" target="_blank">mblog</a></span>
+                    <span class="footer-nav-item">版权所有@
+                        <a href="#" target="_blank">z-blog</a></span>
                 </div>
             </div>
             <div class="col-md-5">

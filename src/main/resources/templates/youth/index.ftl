@@ -14,6 +14,7 @@
           </div>
       </div>
   </div>
+
   <div class="side-top">
       <!-- top -->
     <@contents channelId=topId size=5>

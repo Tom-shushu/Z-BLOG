@@ -5,7 +5,8 @@ html, body {
 body {
     margin: 0;
     padding-top: 50px;
-    background-color: #f0f2f5;
+    background-color: #000000;
+    /**background-color: #f0f2f5;
     /*font-family: Play,"Microsoft YaHei";*/
     font-family: 微軟正黑體;
     -webkit-font-smoothing: antialiased;
