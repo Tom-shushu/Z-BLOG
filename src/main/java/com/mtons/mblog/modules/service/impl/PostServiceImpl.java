@@ -94,6 +94,9 @@ public class PostServiceImpl implements PostService {
 
 	@Override
 	public Page<PostVO> paging4Admin(Pageable pageable, int channelId, String title) {
+
+		
+
 		Page<Post> page = postRepository.findAll((root, query, builder) -> {
             Predicate predicate = builder.conjunction();
 			if (channelId > Consts.ZERO) {

@@ -10,7 +10,7 @@
             </nav>
             <div class="gh-foot-min-back hidden-xs hidden-sm">
                 <!-- 请保留此处标识-->
-                <span class="footer-nav-item">Powered by <a href="https://github.com/langhsu/mblog" target="_blank">Mblog</a></span>
+                <span class="footer-nav-item">版权所有@ <a href="#" target="_blank">z-blog</a></span>
             </div>
         </div>
     </div>
@@ -26,7 +26,7 @@
             <i class="fa fa-comments-o"></i>
             <a href="javascript:void(0)" class="rota">在线反馈</a>
         </li>
-        <li lay-data="img" data-fooc="http://www.mtons.com/dist/images/code/qq.jpg">
+        <li lay-data="img" data-fooc="http://www.zhouhong.icu/dist/images/qqq.png">
             <i class="fa fa-qrcode"></i><a href="javascript:;" class="rota">二维码</a>
         </li>
         <li title="返回顶部" class="for-top">
