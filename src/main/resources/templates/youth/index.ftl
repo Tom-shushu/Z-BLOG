@@ -4,8 +4,8 @@
   <div class="top-bg-img hidden-xs">
       <div class="item scroll">
             <!-- banner 默认风格 -->
-            <img class="scroll-image" src="/theme/youth/dist/images/top-bg-img.png">
-            <img class="scroll-image" src="/theme/youth/dist/images/top-bg-img.png">
+            <img class="scroll-image" src="http://z-blogs.oss-cn-beijing.aliyuncs.com/images/top-bg-img.png">
+            <img class="scroll-image" src="http://z-blogs.oss-cn-beijing.aliyuncs.com/images/top-bg-img.png">
           <div class="top-bg-title">
               <h1>
           <@resource src=options[ 'site_title_1']/></h1>
